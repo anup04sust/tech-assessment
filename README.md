@@ -8,3 +8,10 @@ composer update;
 
 ```
 Update Database info in .env
+Configure Radis Server https://redis.io/docs/getting-started/
+
+```
+php artisan migrate;
+php artisan serve;
+
+```
