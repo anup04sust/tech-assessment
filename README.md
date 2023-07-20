@@ -4,6 +4,8 @@ Require: PHP >= v8.1, Mysql v8, Radis , composer
 ```
 git clone https://github.com/anup04sust/tech-assessment.git
 cd ./tech-assessment
+git fetch --all
+git checkout master
 composer update;
 
 ```
